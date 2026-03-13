@@ -1,0 +1,3 @@
+/home/belief/code/cluster/testmuduo/build/CMakeFiles/server.dir
+/home/belief/code/cluster/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/belief/code/cluster/testmuduo/build/CMakeFiles/rebuild_cache.dir
